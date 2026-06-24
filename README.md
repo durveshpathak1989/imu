@@ -1,5 +1,9 @@
 # Test Quad IMU Library
 
+## Explain It Simply
+
+This module talks to the motion sensor. The motion sensor feels turning, leaning, acceleration, and sometimes magnetic direction. Almost every flight decision starts with this data.
+
 `MPU9250` is the SPI driver and calibration store for MPU-9250 and MPU-6500 boards. It returns scaled accel, gyro, and optional AK8963 magnetometer data for the AHRS filters.
 
 ## Pin Map

@@ -16,7 +16,7 @@
  */
 
 #include "MPU9250.h"
-#include "DebugConfig.h"
+#include "../DebugConfig/DebugConfig.h"
 #include <Preferences.h>
 
 // ─────────────────────────────────────────────────────────────
