@@ -1,3 +1,10 @@
+/*
+ * Name: MPU9250.cpp
+ * Use: Implementation of the MPU-9250/MPU-6500 IMU driver and calibration data.
+ * Version: 4.0.0
+ * Created by: Durvesh Pathak dp676@cornell.edu
+ */
+
 /**
  * ============================================================
  *  MPU9250.cpp  —  Driver + Calibration  (v4.0 no Mahony)
